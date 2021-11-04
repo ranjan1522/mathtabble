@@ -1,0 +1,39 @@
+main {
+  border-style: solid;
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+  margin: auto;
+  width: 70%;
+  height: auto;
+  position: relative;
+}
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+.btn {
+  text-align: center;
+  background-color: rgb(185, 228, 230);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -30%);
+}
+.btn1 {
+  text-align: center;
+  background-color: rgb(185, 228, 230);
+  position: absolute;
+  top: 50%;
+  left: 57%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-60%, -30%);
+}
+
+body {
+  background-color: #889eaf;
+}
+p {
+  font-size: large;
+}
